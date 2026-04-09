@@ -12,6 +12,6 @@ A Decision Support System (DSS) designed to manage pricing and analyze profit ma
 * **Smart Estimation Engine:** Utilizes **variance analysis** (tracking differences in time, cost, and price estimates) and a feedback mechanism to improve future accuracy. It also suggests material needs and displays price ranges/averages for **similar** past products.
 
 ### Tech Stack
-* **Backend:** Python / Django
-* **Frontend:** JavaScript & Chart.js
+* **Language:** Python / Django, JavaScript
 * **Database:** PostgreSQL
+* **Architecture:** MTV (Model-Template-View)
