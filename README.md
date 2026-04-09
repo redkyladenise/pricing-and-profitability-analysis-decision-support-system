@@ -2,6 +2,7 @@
 **Ritaga Signage and Printing Enterprises**
 
 A Decision Support System (DSS) designed to manage pricing and analyze profit margins for a wide range of custom products. 
+
 **Role:** I worked as a backend developer, building suitable and strategic logic to handle diverse product considerations.
 
 ### Core Features
